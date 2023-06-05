@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body style="background-color:white;">
+    <script src="script.js"></script>
+    <div class="container">
+      <nav class="navbar navbar-expand-sm">
+        <div class="navheading">sayabidevs</div>
+          <a class="navlink1" href="https://www.google.com/" target="_blank">Apply</a>
+          <a class="navlink2" href="https://www.google.com/" target="_blank">Contact</a>
+            <button class="button btn btn-primary" style="background-color:white; color:black; border:none; font-weight:bold;">Sign up</button>
+          </div>
+      </div>
+    <div class="container2">
+      <div><h3>JOIN OUR TEAM</h3>
+        </div>
+        <img src="jobpage.jpeg" style="width:350px; height:300px;">
+      <div class="para">
+        <p>We are a team of expert goal-oriented developers dedicated to building a wide array of projects on many different platforms. We want to make Sayabidevs into a global platform for a quick, reliable and simple way to fulfill client requests. Which is supported by flexible and secure payment methods.</p>
+        <div><button class="button btn btn-primary" style="background-color:F9DFDA; color:B62101; border:none; font-weight:bold; margin-right:50px;">Open positions</button></div>
+      </div>
+    </div>
+  </body>
+</html>

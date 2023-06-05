@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body style="background-color:white;">
+    <script src="script.js"></script>
+    <div class="container">
+      <nav class="navbar navbar-expand-sm">
+        <div class="navheading">sayabidevs</div>
+          <a class="navlink1" href="https://www.google.com/" target="_blank">Apply</a>
+          <a class="navlink2" href="https://www.google.com/" target="_blank">Contact</a>
+            <button class="button btn btn-primary" style="background-color:white; color:black; border:none; font-weight:bold;">Sign up</button>
+          </div>
+      </div>
+    <div class="container2">
+      <h2>Open positions in <div class="khi">Karachi!</div></h2>
+    </div>
+    <div class="container3">
+<div class="box1">
+<div class="box2">Web & App Development</div>
+<div><p>Web application development is the creation of application programs that reside on remote servers and are delivered to the user's device over the Internet. A web application (web app) does not need to be downloaded and is instead accessed through a network.</p></div>
+  <a class="navlink" href="https://www.google.com/" target="_blank">Click here to Apply..</a>
+</div>
+<div id="spc">
+<div class="box1">
+<div class="box3">AI & Machine Learning
+</div>
+<div><p>AI is the broad science of mimicking human abilities, machine learning is a specific subset of AI that trains a machine how to learn. Watch this video to better understand the relationship between AI and machine learning. You'll see how these two technologies work, with examples and a few funny asides.</p>
+  <a class="navlink" href="https://www.google.com/" target="_blank">Click here to Apply..</a>
+</div>
+</div>
+</div>
+<div id="spe">
+<div class="box1">
+<div class="box4">Content Writing
+</div>
+  <div>
+<p>Content writing is the process of writing, editing, and publishing content in a digital format. That content can include blog posts, video or podcast scripts, ebooks or whitepapers, press releases, product category descriptions, landing page or social media copy ... and more.</p>
+  </div>
+  <a class="navlink" href="https://www.google.com/" target="_blank">Click here to Apply..</a>
+</div>
+</div>
+</div>
+  </body>
+</html>

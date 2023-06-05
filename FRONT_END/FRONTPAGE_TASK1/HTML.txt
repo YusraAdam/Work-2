@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body style="background-color:white;">
+    <script src="script.js"></script>
+    <div class="container">
+      <nav class="navbar navbar-expand-sm">
+        <div class="navheading">sayabidevs</div>
+          <a class="navlink1" href="https://www.google.com/" target="_blank">Apply</a>
+          <a class="navlink2" href="https://www.google.com/" target="_blank">Contact</a>
+            <button class="button btn btn-primary" style="background-color:white; color:black; border:none; font-weight:bold;">Sign up</button>
+          </div>
+      </div>
+    <img src="website.jpg" style="width: 1290px; height: 400px; padding-top:0px; margin:0px; display:flex; font-family:Tahoma; padding:20px;">
+<div class="def"><h1>sayabidevs</h1><div class="sta"><h3 style="font-size:20px;">SOFTWARE THAT DEFINES YOUR WORK!</h3></div>
+</div>
+<div class="box1">
+<h2 style="color:B62101;">About Us</h2>
+  <p>We at SayabiDevs put in our all to elevate your business to the highest level and plan on soaring high in the world of IT. For us, every opportunity is a path we shall bravely endeavor, and every client is a family that we love, respect, and cherish. We love to help businesses flourish so who else would your business Rev, but SayabiDevs!</p>
+</div>
+    <div class="box2">
+<h2 style="color:B62101;">Our Mission</h2>
+      <p>Our mission is to build a reliable software development platform which covers a diverse variety of projects and delivers them to customers with exceptional results and within tight deadlines. Moreover, we encourage learning by helping students and developers alike by offering our expertise to solve their project related queries. So, do not hesitate to reach out to us. </p>
+</div>
+    <div class="box3">
+<h2 style="color:B62101;">Our Team</h2>
+      <p>We are a team of expert goal-oriented developers dedicated to building a wide array of projects on many different platforms. We want to make Sayabidevs into a global platform for a quick, reliable and simple way to fulfill client requests. Which is supported by flexible and secure payment methods. </p>
+</div>
+  </body>
+</html>

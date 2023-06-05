@@ -1,0 +1,80 @@
+.container{
+  position: relative;
+  margin-top:8px;
+  padding-left:500px;
+}
+
+.navheading{
+  position:absolute;
+  font-size:25px;
+  font-weight:bold;
+  color:B62101;
+  margin-left:0px;
+}
+.navlink1{
+  color:B62101;
+  margin-left: 550px;
+  text-weight:bold;
+}
+.navlink2{
+  color:B62101;
+  margin-left: 50px;
+  text-weight:bold;
+}
+.button{
+    color:B62101;
+  margin-left: 50px;
+}
+.container2{
+  width:1100px;
+  height:900px;
+  background-color:white;
+  margin-left:120px;
+}
+h2{
+  padding-top:30px;
+  margin-left:400px;
+}
+.new{
+  margin-left:480px;
+  padding-top:40px;
+}
+h3{
+  text-weight:bold;
+  font-family: Arial;
+}
+.headings{
+  padding-top:50px;
+  margin-left:300px;
+}
+.social{
+  margin-left:350px;
+  padding-top:40px;
+}
+.fa {
+  margin-left:570px;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.tw{
+  margin-left:0px;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

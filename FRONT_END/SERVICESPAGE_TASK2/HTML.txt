@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body style="background-color:white;">
+    <script src="script.js"></script>
+    <div class="container">
+      <nav class="navbar navbar-expand-sm">
+        <div class="navheading">sayabidevs</div>
+          <a class="navlink1" href="https://www.google.com/" target="_blank">Apply</a>
+          <a class="navlink2" href="https://www.google.com/" target="_blank">Contact</a>
+            <button class="button btn btn-primary" style="background-color:white; color:black; border:none; font-weight:bold;">Sign up</button>
+          </div>
+    <div class="container2">
+      <h1>Our services</h1>
+    </div>
+    <div class="container3">
+      <h2>Reliable Software Development</h2>
+      <p>Our mission is to build a reliable software development platform which covers a diverse variety of projects and delivers them to customers with exceptional results and within tight deadlines.</p>
+    </div>
+    <div class="container4">
+      <h2>Learning Platform for Students</h2>
+      <p>We encourage learning by helping students and developers alike by offering our expertise to solve their project related queries. So, do not hesitate to reach out to us.</p>
+    </div>
+    <div class="container5">
+      <h2>Professional Working Environment</h2>
+      <p>We at SayabiDevs put in our all to elevate your business to the highest level and plan on soaring high in the world of IT. For us, every opportunity is a path we shall bravely endeavor, and every client is a family that we love, respect, and cherish.</p>
+    </div>
+</body>
+</html>
